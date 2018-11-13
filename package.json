@@ -75,7 +75,7 @@
     "react-dom": "^16.6.3",
     "polished": "^2.2.0",
     "styled-components": "^4.0.2",
-    "react-test-renderer": "^16.5.2",
+    "react-test-renderer": "^16.6.3",
     "webpack": "^4.19.1",
     "webpack-cli": "^3.1.0"
   }
